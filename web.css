@@ -54,8 +54,8 @@ h5 {
 #credits {
   font-size: 10px;
   color: white;
-  background-color: #ACD1F2;
-	width: 80%;
+  background-color: #82A7DE;
+  width: 80%;
   padding-left: 20%;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -182,7 +182,7 @@ nav a {
   text-align: center;
   color: white;
   text-shadow: 2px 2px #82A7DE;
-	background-color: #ACD1F2;
+	background-color: #82A7DE;
   border-bottom: 5px solid #ACD1F2;
   display: block;
 	padding: 20px 20px 15px 20px;
