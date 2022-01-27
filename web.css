@@ -54,8 +54,8 @@ h5 {
 #credits {
   font-size: 10px;
   color: white;
-  background-color: #82A7DE;
-  width: 80%;
+  background-color: #61A0D6;
+	width: 80%;
   padding-left: 20%;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -181,9 +181,9 @@ nav a {
   text-decoration: none;
   text-align: center;
   color: white;
-  text-shadow: 2px 2px #82A7DE;
-	background-color: #82A7DE;
-  border-bottom: 5px solid #ACD1F2;
+  text-shadow: 2px 2px #3678B1;
+	background-color: #61A0D6;
+  border-bottom: 5px solid #61A0D6;
   display: block;
 	padding: 20px 20px 15px 20px;
   height: 2.5em;
@@ -198,14 +198,14 @@ nav a {
 }
 
 #actif {
-  border-bottom: 5px solid #97BFE9;
+  border-bottom: 5px solid #4A87BC;
 }
 
 nav a[href]:hover, #actif:hover {
   color: white;
-	background-color: #97BFE9;
-  text-shadow: 2px 2px #4988BF;
-  border-bottom: 5px solid #82A7DE;
+	background-color: #72B0E6;
+  text-shadow: 2px 2px #4A87BC;
+  border-bottom: 5px solid #68A7DE;
 }
 
 nav > ul {
